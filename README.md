@@ -43,6 +43,10 @@
 <br />
 
 ---
+![anime-shiro](https://user-images.githubusercontent.com/71634629/133024754-ed19c5c0-ed90-44e5-a8ef-4c7a851f906c.gif)
+![giorno-tea](https://user-images.githubusercontent.com/71634629/133024775-dc00cc46-1621-4178-9b37-ea35cb439e48.gif)
+
+
 [twitter]: https://twitter.com/auzanazhar 
 [instagram]: https://www.instagram.com/jess_juss17/
 [linkedin]: https://www.linkedin.com/in/fairuz-azhar-auzan-65a2151bb/
