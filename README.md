@@ -2,13 +2,14 @@
 ![Code Junkie (1)](https://user-images.githubusercontent.com/71634629/133023096-da4d3fe0-5f42-4690-a205-8d489441323f.png)
 
 
-## I'm a Collage student,Junior Developer, and Weebs!!
+### i'm a College student, Junior Developer, and Weebs!!
 
 - 🔭 I just amateur programming
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become Full Stack Web developer 
-- ⚡ Fun fact: I love to playing games and Anime
+- 🥅 2021 Goals: Become a Full Stack Web developer 
+- ⚡ Fun fact: I love playing games and Anime
+
 
 ### Connect with me:
 
