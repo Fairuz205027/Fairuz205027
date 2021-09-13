@@ -1,5 +1,5 @@
 ### Hi there, I'm Fairuz A.K.A [IYUZ] 👋
-
+![alt text](https://github.com/Fairuz205027/Fairuz205027/blob/main/Code%20Junkie.pngraw=true)
 
 ## I'm a Collage student,Junior Developer, and Weebs!!
 
