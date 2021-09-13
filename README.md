@@ -1,5 +1,6 @@
 ### Hi there, I'm Fairuz A.K.A [IYUZ] 👋
-![Code Junkie](Code Junkie.png)
+![Code Junkie (1)](https://user-images.githubusercontent.com/71634629/133023096-da4d3fe0-5f42-4690-a205-8d489441323f.png)
+
 
 ## I'm a Collage student,Junior Developer, and Weebs!!
 
