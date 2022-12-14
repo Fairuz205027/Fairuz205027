@@ -7,7 +7,7 @@
 - 🔭 I just amateur programming
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become a Full Stack Web developer 
+- 🥅 2023 Goals: Become a Professional penetration Tester
 - ⚡ Fun fact: I love playing games and Anime
 
 
